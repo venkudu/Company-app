@@ -2,6 +2,6 @@
 <body>
 <h2>Hello welcome to devops</h2>
 <h2>call us to 99999</h2>
-<h2>we are operating from Hyderbad/online</h2>
+<h2>we are operating from Hyderbad/online/pune</h2>
 </body>
 </html>
